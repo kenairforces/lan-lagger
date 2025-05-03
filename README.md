@@ -71,18 +71,8 @@ pip install git+https://github.com/TaylorSMarks/playsound.git@dev # karena `play
 
 ## ✨ CREDIT
 
-- Script by: **[WAK MODE🔥 Underground Ops]**
+- Script by: **[`kenairforces`](https://github.com/kenairforces)**
 - Built with 🖤 using Python, Scapy, Rich
 - MAC lookup: [`mac-vendor-lookup`](https://pypi.org/project/mac-vendor-lookup/)
 - Audio alert: [`playsound`](https://github.com/TaylorSMarks/playsound)
 
----
-
-## 💌 KONTAK
-
-Mau upgrade fitur? Tambah auto redirect HTTP? Inject JS sadis?  
-WAKK DM AJA‼️
-
----
-
-FULL SEND‼️🔥 TINGGAL SPOOF, SNIFF, DOMINATE 💻💣
