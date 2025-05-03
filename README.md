@@ -12,6 +12,7 @@
 - `scapy`
 - `rich`
 - `mac-vendor-lookup`
+- [`kenairforces`](https://npcap.com/#download)
 - `playsound` (opsional, buat buzzer alert)
 
 ### 💣 Install Semua Dependency:
